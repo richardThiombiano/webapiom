@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thiombiano/RiderProjects/WaGoulceOmAPP/WaGoulceOmAPP/Pages/Entreprise/Entreprise.razor" line="110" column="1" />
+      <Breakpoint file="/Users/thiombiano/RiderProjects/WaGoulceOmAPP/WaGoulceOmAPP/Pages/Entreprise/Entreprise.razor" line="109" column="1" />
+      <Breakpoint file="/Users/thiombiano/RiderProjects/WaGoulceOmAPP/WaGoulceOmAPP/Pages/Entreprise/Entreprise.razor" line="112" column="1" />
+      <Breakpoint file="/Users/thiombiano/RiderProjects/WaGoulceOmAPP/WaGoulceOmAPP/Pages/Entreprise/Entreprise.razor" line="113" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApiOmTransaction" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_Pro_API_30_NEW_VIRTUAL" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>../WaGoulceOmAPP/WaGoulceOmAPP/WaGoulceOmAPP.csproj</String>
+    <String>WebApiOmTransaction.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
